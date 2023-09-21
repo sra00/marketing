@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "QM"
+email: QM@gmail.com
 timezone: UTC
 baseurl: "/marketing"
 permalink: "/:title/"
@@ -44,9 +44,9 @@ authors:
 # Social
 social:
   pinterest: https://www.pinterest.com/pinaccount-goeshere
- # instagram: https://www.instagram.com/bootstrapstarter/
- # facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
- # twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  twitter: https://twitter.com/bstartercom
 
 # Plugins
 plugins: 
